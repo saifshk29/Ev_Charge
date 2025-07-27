@@ -1,0 +1,21 @@
+
+{
+    "stationName": "Home Charger 1",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.689050, 18.765720]
+    },
+    "provider_info": {
+        "name":"String",
+        "charger_type":"String"
+        
+      },
+    "address": {
+      "street": "Akurdi",
+      "city": "pimpri",
+      "state": "Maharashtra",
+      "zipCode": "41104"
+    },
+    "price": 10,
+    "available": true
+  }
